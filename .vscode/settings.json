@@ -1,0 +1,11 @@
+{
+    "lupastudio.gdbPath": "C:\\Users\\gokulkrishnan.s\\.lupastudio\\packages\\toolchain-gccarmnoneeabi\\bin\\arm-none-eabi-gdb.exe",
+    "lupastudio.sdkroot": "C:\\Users\\gokulkrishnan.s\\.lupastudio\\sdk",
+    "lupastudio.toolchainPath": "C:\\Users\\gokulkrishnan.s\\.lupastudio\\packages\\toolchain-gccarmnoneeabi",
+    "cortex-debug.openocdPath": "C:\\Users\\gokulkrishnan.s\\.lupastudio\\packages\\tool-openocd\\bin\\openocd.exe",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\gokulkrishnan.s\\.lupastudio\\venv\\Scripts;${env:PATH}"
+    },
+    "lupastudio.appOffset": "0x201b9000",
+    "lupastudio.lupaExecutable": "${config:lupastudio.sdkroot}/${config:lupastudio.activeSdk}/out/samples.dqc_triton.fx_osp-debug/DQC-SYS_FW.elf"
+}
